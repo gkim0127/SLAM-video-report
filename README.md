@@ -6,4 +6,4 @@ turtlebot2
 
 - RGBD SLAM
 - G mapping
-  
+- Evaluation through quantified performance metrics
